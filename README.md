@@ -2,7 +2,7 @@
 
 This repository includes a set of files intended to replicate the results shown in the following paper:
 
-Juan David Rodríguez García, Jesús Moreno León, Marcos Román González, and Gregorio Robles. 2021. "Evaluation of an Online Intervention to Teach Artificial Intelligence With LearningML to 10-16-Year-Old Students" in SIGCSE ’21, March 17–20, 2021, Toronto, Canada.
+Juan David Rodríguez García, Jesús Moreno León, Marcos Román González, and Gregorio Robles. 2021. "Evaluation of an Online Intervention to Teach Artificial Intelligence With LearningML to 10-16-Year-Old Students", accepted for SIGCSE ’21, March 17–20, 2021, Toronto, Canada.
 
 ## Description of directories
 
