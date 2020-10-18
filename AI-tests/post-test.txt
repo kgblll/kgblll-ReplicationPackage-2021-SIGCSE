@@ -1,0 +1,129 @@
+- What is you gender?
+    - male
+    - female
+    - I don't want to answer
+
+- What is your course?
+    - 5º grade
+    - 6º grade
+    - 7º grade
+    - 8º grade
+    - 9º grade
+    - 10º grade
+
+- On what type of electronic device are you going to perform the test?
+    - Desktop computer
+    - Portatil computer
+    - Tablet
+    - Mobile phone
+
+- P1. (Open question) Briefly describe what you think Artificial Intelligence is.
+
+- P2. An important part of the algorithms on which current artificial intelligence (AI) systems are based were developed:
+    - In the middle Ages
+    - During the renaissance
+    - (X) In the twentieth century
+    - Last year
+
+- P3. When when making a drawing in an image recognition application that uses machine learning (ML) techniques, the system is able to recognize what you are painting (for example, a turtle), this is due to:
+    - That you have drawn a turtle very similar to the turtle that the creators of the system drew during their training.
+    - That your drawing is very similar to the one made by the previous player who had to paint a turtle.
+    - That your drawing is the same as the typical turtle that appears in Google Images searches.
+    - (X) That the system has recognized in your drawing patterns similar to those of the turtle drawings with which it was trained.
+
+- P4. When an artificial intelligence (AI) system offers results that discriminate in terms, for example, of sex, this is usually due to:
+    - (X) That the data that was used to train the system were not balanced, that is, that much more data were used for men than women, or vice versa.
+    - That the developers of the system had sexist biases.
+    - That the system is designed to be used by men to a greater extent than by women, or vice versa.
+    - That the system reflects the sexist reality of human nature.
+
+- P5. Cuando implementamos técnicas de aprendizaje automático o machine learning (ML) en un sistema de reconocimiento de texto:
+    - We present the computer with a set of sample texts and the computer, after processing, is able to recognize only the texts that exactly match those examples.
+    - (X) We present a set of sample texts to the computer and the computer, after processing, is able to recognize texts similar to those examples (that is, to recognize new texts that it has not seen before).
+    - We present a set of sample texts to the computer and it, after processing them, is able to recognize any text we present to it.
+    - We present a set of sample texts to the computer and the computer, after processing them, is capable of recognizing any text, image or sound that we present to it.
+
+- P6. Which of the following statements is true about machine learning (ML)?
+    - (X) Training data is essential for machine learning, without data it is not possible to do machine learning.
+    - With automatic learning, computers learn to think and can recognize any type of data (text, image, sound ...), in the same way that a human being does.
+    - The more data we use to train a system that incorporates machine learning, the worse (more inaccurate) are the results offered by that system.
+    - Machine learning does not need data to function, precisely because it is automatic and does not depend on being fed data of any kind.
+
+- P7. Which of the following strategies would be more appropriate to teach a computer to recognize the photo of any apple?
+    - Train the computer with photos of dogs.
+    - (X) Train the computer with several photos of different apples, taken in different places and contexts. 
+    - Train the computer with several similar photos of the same apple, taken in the same place.
+    - Train the computer with several identical copies of the same photo of an apple.
+
+- P8. Which of the following statements is correct about machine learning (ML)?
+    - (X) ML is a technique that enables computers to be trained with sample data to perform certain tasks; rather than having to program them with an explicit set of steps and rules to follow.
+    - ML implies that humans will no longer have to think about how to solve problems, since computers will think for us (and better than us).
+    - ML implies that humans no longer need to learn to program.
+    - ML can only be implemented on supercomputers with enormous computing power.
+
+- P9. In which of the following tasks, to be performed by a computer, would it be appropriate to apply machine learning techniques or machine learning (ML)?
+    - Add large numbers.
+    - (X) Recognize if an email is spam (junk mail).
+    - Count the number of times a key is pressed.
+    - Inform about the hours of a certain business based on the day of the week.
+
+- P10. When training a computer using machine learning (ML) techniques, which of the following strategies is likely to be most successful and work best?
+    - (X) Collect a small set of examples; train the system; check how good (reliable) the built model is; add more examples; train the system again; check again how good it is ... and repeat until a good enough model is achieved.
+    - More startup samples is always better, so to get started you decide to collect millions of training samples. You start with such a massive collection, and you spend several months collecting more and more examples. Only then do you proceed to train the system.
+
+- P11. Both Alicia and Roberto want to train a machine learning (ML) system that serves to recognize whether a certain text is "happy / positive" or "sad / negative". Alicia and Roberto follow two different training strategies. Who of the two will get the better system?
+    - (X) Alicia. She has compiled 10 mixed examples of happy / positive texts and another 10 mixed examples of sad / negative texts.
+    - Robert. He has collected 1000 examples of happy / positive texts and another 10 examples of sad / negative texts.
+
+- P12. The level of technical knowledge required to understand what artificial intelligence (AI) consists of is too high for most of the population.
+    - (1.00) Strongly disagree.
+    - (0.75) Somewhat disagree.
+    - (0.50) Neither agree nor disagree.
+    - (0.25) Somewhat agree.
+    - (0.00) Totally agree.
+
+- P13. If an algorithm is capable of predicting the outcome of a soccer match, it is highly likely that it is also capable of predicting the beginning of the 3rd World War.
+    - (1.00) Strongly disagree.
+    - (0.75) Somewhat disagree.
+    - (0.50) Neither agree nor disagree.
+    - (0.25) Somewhat agree.
+    - (0.00) Totally agree.
+
+- P14. In less than 10 years, a Terminator-like artificial intelligence (AI) will be developed, threatening the survival of humanity.
+    - (1.00) Strongly disagree.
+    - (0.75) Somewhat disagree.
+    - (0.50) Neither agree nor disagree.
+    - (0.25) Somewhat agree.
+    - (0.00) Totally agree.
+
+- P15. As a user, the legal regulation that is approved about devices that use artificial intelligence (AI) will affect my life:
+    - (0.00) Strongly disagree.
+    - (0.25) Somewhat disagree.
+    - (0.50) Neither agree nor disagree.
+    - (0.75) Somewhat agree.
+    - (1.00) Totally agree.
+
+- P16. (Open question) Briefly describe what are the main dangers of Artificial Intelligence, if you know any of them.
+
+- P17. Did you find ANOMTOOL  a useful application to learn about Artificial Intelligence?
+    - Strongly disagree.
+    - Somewhat disagree.
+    - Neither agree nor disagree.
+    - Somewhat agree.
+    - Totally agree.
+
+- P18. Has it been easy for you to use ANOMTOOL to program an application with Artificial Intelligence?
+    - Strongly disagree.
+    - Somewhat disagree.
+    - Neither agree nor disagree.
+    - Somewhat agree.
+    - Totally agree.
+
+- P19. What kinds of projects have you done when you have tried ANONTOOL?
+    - Text recognition.
+    - Image recognition.
+    - Both of them
+
+- P20. (Open question) In a project programmed with ANONTOOL, what use would it be to use the "classify <text>" block? '
+
+- P21. (Open question) What improvement proposals can you think of for the ANONTOOL tool?
