@@ -12,4 +12,4 @@ Juan David Rodríguez García, Jesús Moreno León, Marcos Román González, and
 
 - `data`. These files are used by the previous jupyter notebooks.    
 
-- `text-analisys`. These files are the answers for the question Q1 of both pre and post tests in text format (a line for each answer). They are intended to feed Infranodus application (https://infranodus.com/) and get the text analisys shown in the paper.
+- `text-analysis`. These files are the answers for the question Q1 of both pre and post tests in text format (a line for each answer). They are intended to feed Infranodus application (https://infranodus.com/) and get the text analisys shown in the paper.
