@@ -8,7 +8,7 @@ Juan David Rodríguez García, Jesús Moreno León, Marcos Román González, and
 
 -  `AI-tests`, includes the pre- and post-tests, in text format,  which have been used as the assesment instrument in the paper. They have been translated to english. The student answers to such tests are also included as excel datasheets. Texts in these last files are in spanish, since the experimental study was carried out for spanish speaker subjects.
 
-- `jupyter scripts`. These are the python jupyter notebooks which have been used to prepare and process data and obtain the results shown in the paper. The must be executed in the prefix filename order.  
+- `jupyter scripts`. These are the python jupyter notebooks which have been used to prepare and process data to obtain the results shown in the paper. They must be executed in the prefix filename order.  
 
 - `data`. These files are used by the previous jupyter notebooks.    
 
